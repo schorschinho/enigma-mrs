@@ -15,7 +15,7 @@ This repository contains tools and resources to develop a normative single-voxel
 
 ## Contact
 
-- [Georg Oeltzschner](mailto:goeltzs1 (at) jhu (dot) edu)
-- [Ashley D. Harris](mailto:ashley (dot) harris2 (at) ucalgary (dot) ca)
-- [Alexander P. Lin](mailto:aplin (at) bwh (dot) harvard (dot) edu)
-- [Brenda Bartnik-Olson](mailto:bbartnik (at) llu (dot) edu)
+- [Georg Oeltzschner](mailto:goeltzs1(at)jhu(dot)edu)
+- [Ashley D. Harris](mailto:ashley(dot)harris2(at)ucalgary(dot)ca)
+- [Alexander P. Lin](mailto:aplin(at)bwh(dot)harvard(dot)edu)
+- [Brenda Bartnik-Olson](mailto:bbartnik(at)llu(dot)edu)
