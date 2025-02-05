@@ -1,0 +1,30 @@
+{
+    "age": {
+        "Description": "age of the participant",
+        "Units": "year"
+    },
+    "sex": {
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "gender": {
+        "Description": "gender of the participant as reported by the participant",
+        "Levels": {
+            "m": "man",
+            "f": "woman",
+            "t": "transgender",
+            "n": "non-binary",
+            "o": "other",
+            "na": "N/A"
+        }
+    },
+    "group": {
+        "Description": "clinical group the participant belonged to",
+        "Levels": {
+            "control": "healthy control volunteer"
+        }
+    }
+}
